@@ -4,7 +4,7 @@ Käyttäjä voi luoda uuden tunnuksen, kirjautua sisään ja kirjautua ulos
 
 Sovelluksen etusivulla näkyy lista keskustelualueista sekä alueiden ketjujen ja viestien määrä ja viimeksi lähetetyn viestin ajankohta
 
-Käyttäjä voi kirjoittaa uusia viestejä olemassa oleviin ketjuihin, muokata luomansa ketju notsikkoa sekä lähettämäänsä viestiä ja poistaa luomansa ketjun tai viestin.
+Käyttäjä voi kirjoittaa uusia viestejä olemassa oleviin ketjuihin, muokata luomansa ketjun otsikkoa sekä lähettämäänsä viestiä ja poistaa luomansa ketjun tai viestin.
 
 Haku: on
 

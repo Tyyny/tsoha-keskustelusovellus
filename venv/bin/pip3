@@ -1,4 +1,4 @@
-#!/home/paol/tsoha-keskustelusovellus/venv/bin/python3
+#!/home/paahdin/tsoha-keskustelusovellus/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
